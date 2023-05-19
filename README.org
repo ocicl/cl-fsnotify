@@ -1,0 +1,9 @@
+* cl-fsnotify
+
+File system notifications
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/howeyc/cl-fsnotify.git |
+| commit  | ac09e94                                       |
+| systems | cl-fsnotify                                   |
+|---------+-----------------------------------------------|
